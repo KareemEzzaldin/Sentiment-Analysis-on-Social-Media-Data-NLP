@@ -18,7 +18,7 @@ Both datasets are **pre-cleaned** to remove noise and inconsistencies.
 
 ---
 
-## 🛠 Project Workflow
+##  Project Workflow
 - Data validation and preprocessing  
 - Text cleaning and tokenization  
 - Feature extraction using **TF-IDF** and **word embeddings**  
@@ -37,7 +37,7 @@ Both datasets are **pre-cleaned** to remove noise and inconsistencies.
 
 ---
 
-## ⚙Tools and Technologies
+## Tools and Technologies
 - Python  
 - Pandas, NumPy  
 - NLTK, spaCy  
@@ -47,13 +47,13 @@ Both datasets are **pre-cleaned** to remove noise and inconsistencies.
 
 ---
 
-## 📈 Results
+## Results
 - Deep learning models achieved higher accuracy and generalization compared to classical models  
 - Visual analysis showed strong patterns in polarity across both platforms  
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Clone the repository
 ```bash
